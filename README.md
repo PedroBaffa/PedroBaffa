@@ -46,7 +46,7 @@ Estas são as principais tecnologias com que construo meus projetos:
 
 Você pode me encontrar no LinkedIn ou me enviar um e-mail. Estou aberto a novas oportunidades e colaborações!
 
-<a href="https://linkedin.com/in/[pedro-baffa]" target="_blank">
+<a href="https://linkedin.com/in/pedro-baffa" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:[pedro2004baffa@gmail.com]">
