@@ -57,9 +57,3 @@ Você pode me encontrar no LinkedIn ou me enviar um e-mail. Estou aberto a novas
 <br>
 
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub de Pedro Baffa](https://github-readme-stats.vercel.app/api?username=PedroBaffa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBaffa&layout=compact&langs_count=8&theme=dracula)
