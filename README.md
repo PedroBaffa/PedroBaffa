@@ -13,7 +13,7 @@ Gosto de trabalhar em todas as camadas da aplicação, combinando a lógica do b
 
 ---
 
-<div align="center">### 🚀 Minha Stack de Tecnologias</div>
+<div align="center"><h1>🚀 Minha Stack de Tecnologias</h1></div>
 <p align="center">
   Estas são as principais tecnologias com que construo meus projetos:
   <br><br>
